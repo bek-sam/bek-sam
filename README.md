@@ -5,7 +5,7 @@ CS @ North American University (Dec 2026) · open to new-grad SWE / AI engineer 
 
 #### Now
 - **Software Engineer Intern @ Keystone Tile**: sole engineer at a 5-location stone & tile distributor. I built a native SwiftUI app (~34K lines of Swift) with offline search over a 4,362-product catalog, the FieldOps field-sales platform, and a Next.js 16 website rebuild.
-- **InvAI**: my startup project, a multi-tenant SaaS for print shops. I designed a 20-role Claude Code agent team to build it (8 repos, 258 typed API procedures, a 133-case eval harness).
+- **[InvAI](https://github.com/bek-sam/invai-docs)**: my startup project, a multi-tenant SaaS for print shops. I designed a 20-role Claude Code agent team to build it (8 repos, 258 typed API procedures, a 133-case eval harness).
 - **Co-founder & President, KurultAi R&D Club**: 30+ members, workshops, hackathons, mentorship.
 
 #### Featured projects
